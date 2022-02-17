@@ -1,0 +1,48 @@
+commit 567bcb5f1c69b2b2a778e20bb3de7558c967770c
+Author: Grant Minnihan <gminnihan@mines.edu>
+Date:   Thu Feb 17 13:35:59 2022 -0700
+
+    Made eyes closer together Driver:Grant Navigator:Lizzy
+
+commit a6279b15cf3a04746e65b521cb411cc756ce000b
+Author: lizzywalker55 <lfaithw@hotmail.com>
+Date:   Thu Feb 17 13:34:09 2022 -0700
+
+    Changed mouth color to orange Driver:Lizzy Navigator:Grant
+
+commit d23df5856b58f0d6d7b1f0b2d8860167e8276fdb
+Author: Grant Minnihan <gminnihan@mines.edu>
+Date:   Thu Feb 17 13:31:19 2022 -0700
+
+    Changed the eyes to be dark grey Driver:Grant Minnihan Navigator:Lizzy
+    Walker
+
+commit bfd6ed51a1281017047dc239d8e1ec32d012c250
+Author: lizzywalker55 <lfaithw@hotmail.com>
+Date:   Thu Feb 17 13:29:49 2022 -0700
+
+    Made cats head dimension bigger  Driver:Lizzy Navigator:Grant
+
+commit 065de1bd698bce4e918c8a25332dfc21647937d1
+Author: Grant Minnihan <gminnihan@mines.edu>
+Date:   Thu Feb 17 13:27:59 2022 -0700
+
+    Made mouth even shorter - Driver:Grant Navigator:Lizzy
+
+commit 5077e25e307af2bbd59f8d2853b10e354811f035
+Author: Grant Minnihan <gminnihan@mines.edu>
+Date:   Thu Feb 17 13:27:08 2022 -0700
+
+    Made Mouth and eyes shorter in height
+
+commit 47dfeb787a0557f470cada630c1a371c60c4de05
+Author: lizzywalker55 <lfaithw@hotmail.com>
+Date:   Thu Feb 17 13:12:54 2022 -0700
+
+    changed cat color to blue from black - Lizzy:Driver Grant:Navigator
+
+commit cb2a79f459734b14618588b7c14b4e29efbc7f80
+Author: Grant Minnihan <gminnihan@mines.edu>
+Date:   Thu Feb 17 12:58:03 2022 -0700
+
+    initialize repo, created .gitignore
